@@ -1,6 +1,6 @@
 # SEU Prediction — LSTM Baseline
 
-PhD research project: predicting cosmic ray-induced **Single Event Upset (SEU)** rates in LEO satellite and UAV onboard electronics using an LSTM baseline model.
+PhD research project proposal: predicting cosmic ray-induced **Single Event Upset (SEU)** rates in LEO satellite and UAV onboard electronics using an LSTM baseline model.
 
 ## Data Sources
 - **GOES-16/18** integral proton & electron flux (NOAA SWPC)
