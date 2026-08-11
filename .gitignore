@@ -1,0 +1,35 @@
+# Data — never commit raw or processed arrays
+data/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Environments
+.venv/
+env/
+venv/
+
+# Model checkpoints & outputs (large binaries)
+checkpoints/
+runs/
+*.pt
+*.pth
+*.pkl
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# HPC job logs
+*.out
+*.err
+slurm-*.out
+
+# OS
+.DS_Store
+Thumbs.db
